@@ -42,7 +42,7 @@ Using Assignment 2 environment
 1. Comment on the frequency of exits – does the number of exits increase at a stable rate? Or are there more exits performed during certain VM operations? Approximately how many exits does a full VM boot entail? 
 Based on the exit frequency, the rate of exits does not increase at a stable rate. A full VM boot entails about 130,000 exits.
 
-2.Of the exit types defined in the SDM, which are the most frequent? Least? 
+2. Of the exit types defined in the SDM, which are the most frequent? Least? 
 Most Frequent:
   Exit Number 1 - External Interrupt
   Exit Number 32 - WRMSR
